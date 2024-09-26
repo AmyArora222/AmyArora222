@@ -1,7 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/70/65/e2/7065e23d412b3ff3dc242d19ab4b4a57.jpg)
+
+<img src="https://i.pinimg.com/originals/4f/e3/31/4fe33144532cacf547c3a3d7c225a210.gif" alt="MasterHead" width="1200" height="300">
+
 <h1 align="center">Hi 👋, I'm Amy</h1>
 <h3 align="center">A passionate FullStack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1RCdM8awu6f9ndT7DB_OKq29E_pF1t3ZWPkIEXH0TYZyU4Z9NEMCVW_RTAefaoD8RzQ&usqp=CAU">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amyarora222&label=Profile%20views&color=0e75b6&style=flat" alt="amyarora222" /> </p>
