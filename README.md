@@ -10,13 +10,8 @@
 
 
 
-- 🔭 I’m currently working on **Weathwave - Banking App**
 
 - 👨‍💻 All of my projects are available at **https://github.com/AmyArora222**
-
-- 🌱 I’m currently learning **about AI**
-
-- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **amyarora2214@gmail.com**
 
